@@ -1,0 +1,14 @@
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/bin/Debug/net7.0/lab1.6
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/bin/Debug/net7.0/lab1.6.deps.json
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/bin/Debug/net7.0/lab1.6.runtimeconfig.json
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/bin/Debug/net7.0/lab1.6.dll
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/bin/Debug/net7.0/lab1.6.pdb
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.AssemblyInfoInputs.cache
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.AssemblyInfo.cs
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.csproj.CoreCompileInputs.cache
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.dll
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/refint/lab1.6.dll
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.pdb
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/lab1.6.genruntimeconfig.cache
+/Users/zlata/Projects/C/kpp_lab/lab1.6/lab1.6/obj/Debug/net7.0/ref/lab1.6.dll
