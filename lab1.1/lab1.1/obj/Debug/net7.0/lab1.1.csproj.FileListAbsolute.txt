@@ -1,0 +1,14 @@
+/Users/zlata/Projects/lab1.1/lab1.1/bin/Debug/net7.0/lab1.1
+/Users/zlata/Projects/lab1.1/lab1.1/bin/Debug/net7.0/lab1.1.deps.json
+/Users/zlata/Projects/lab1.1/lab1.1/bin/Debug/net7.0/lab1.1.runtimeconfig.json
+/Users/zlata/Projects/lab1.1/lab1.1/bin/Debug/net7.0/lab1.1.dll
+/Users/zlata/Projects/lab1.1/lab1.1/bin/Debug/net7.0/lab1.1.pdb
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.AssemblyInfoInputs.cache
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.AssemblyInfo.cs
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.csproj.CoreCompileInputs.cache
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.dll
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/refint/lab1.1.dll
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.pdb
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/lab1.1.genruntimeconfig.cache
+/Users/zlata/Projects/lab1.1/lab1.1/obj/Debug/net7.0/ref/lab1.1.dll
